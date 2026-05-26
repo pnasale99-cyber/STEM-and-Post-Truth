@@ -181,7 +181,7 @@
   .pd-banner p{font-size:0.9rem;color:rgba(255,255,255,0.8);}
 
   /* References */
-  .ref-section{background:var(--teal-deep);color:#fff;}
+  .ref-section{background:var(--teal-deep);}
   .ref-section .section-title{color:var(--teal-soft);}
   .ref-section .section-lead{color:rgba(255,255,255,0.65);}
   .ref-links{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem;margin-bottom:2.5rem;}
